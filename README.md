@@ -11,6 +11,7 @@ This repository is a collection of the solutions I have submitted at [Scrimba](h
 | **Day 1:** Christmas Countdown | JS | [Code](https://github.com/aramatsolrac/JavaScriptmas/tree/main/day_1)|[Live](https://aramatsolrac.github.io/JavaScriptmas/day_1/) |
 | **Day 2:** Festive Theme Switcher| JS | [Code](https://github.com/aramatsolrac/JavaScriptmas/tree/main/day_2)|[Live](https://aramatsolrac.github.io/JavaScriptmas/day_2/) |
 | **Day 3:** Don't Scary your Relatives | JS | [Code](https://github.com/aramatsolrac/JavaScriptmas/tree/main/day_3)|[Live](https://aramatsolrac.github.io/JavaScriptmas/day_3/) |
+| **Day 4:** Christmas Shopping List | JS | [Code](https://github.com/aramatsolrac/JavaScriptmas/tree/main/day_4)|[Live](https://aramatsolrac.github.io/JavaScriptmas/day_4/) |
 
 
 
