@@ -1,6 +1,6 @@
 const greeting = document.getElementById("greeting")
 const christmassifierBtn = document.getElementById("christmassifierBtn")
-christmassifierBtn.addEventListener("click", christmassifyName)
+christmassifierBtn.addEventListener("click", christmassifyToggle)
 const audio = document.getElementById("audio");
 
 function playAudio() {
@@ -11,11 +11,14 @@ function pauseAudio() {
     audio.pause();
 };
 
-function christmassifyName() {
+function christmassifyToggle() {
     greeting.classList.toggle("christmassified")
     if (christmassifierBtn.innerText === "Christmassify") {
         christmassifierBtn.innerText = "De-christmassify"
         playAudio();
+        setTimeout(() => {
+            christmassifyToggle()
+        }, 10000)
     } else {
         christmassifierBtn.innerText = "Christmassify"
         pauseAudio()
@@ -29,4 +32,4 @@ function christmassifyName() {
 
 // Stretch goals:
 // - Play Christmas music when Christmas class is added. ✔️
-// - Remove the Christmas class after a given time.
+// - Remove the Christmas class after a given time. ✔️
