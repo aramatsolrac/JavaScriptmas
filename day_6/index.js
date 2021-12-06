@@ -17,7 +17,9 @@ function christmassifyToggle() {
         christmassifierBtn.innerText = "De-christmassify"
         playAudio();
         setTimeout(() => {
-            christmassifyToggle()
+            greeting.classList.remove("christmassified")
+            christmassifierBtn.innerText = "Christmassify"
+            pauseAudio()
         }, 10000)
     } else {
         christmassifierBtn.innerText = "Christmassify"
