@@ -14,6 +14,7 @@ This repository is a collection of the solutions I have submitted at [Scrimba](h
 | **Day 4:** Christmas Shopping List | JS | [Code](https://github.com/aramatsolrac/JavaScriptmas/tree/main/day_4)|[Live](https://aramatsolrac.github.io/JavaScriptmas/day_4/) |
 | **Day 5:** Christmas Card Writer | JS | [Code](https://github.com/aramatsolrac/JavaScriptmas/tree/main/day_5)|[Live](https://aramatsolrac.github.io/JavaScriptmas/day_5/) |
 | **Day 6:** Text Christmassifier | JS | [Code](https://github.com/aramatsolrac/JavaScriptmas/tree/main/day_6)|[Live](https://aramatsolrac.github.io/JavaScriptmas/day_6/) |
+| **Day 7:** Play a Christmas Song | JS | [Code](https://github.com/aramatsolrac/JavaScriptmas/tree/main/day_7)|[Live](https://aramatsolrac.github.io/JavaScriptmas/day_7/) |
 
 
 
