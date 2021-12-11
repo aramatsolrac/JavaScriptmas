@@ -18,6 +18,6 @@ This repository is a collection of the solutions I have submitted at [Scrimba](h
 | **Day 8:** Bell Animator | HTML, CSS, JS | [Code](https://github.com/aramatsolrac/JavaScriptmas/tree/main/day_8)|[Live](https://aramatsolrac.github.io/JavaScriptmas/day_8/) |
 | **Day 9:** Turn on The Decorations | HTML, CSS, JS | [Code](https://github.com/aramatsolrac/JavaScriptmas/tree/main/day_9)|[Live](https://aramatsolrac.github.io/JavaScriptmas/day_9/) |
 | **Day 10:** Festivity Loader | HTML, CSS, JS | [Code](https://github.com/aramatsolrac/JavaScriptmas/tree/main/day_10)|[Live](https://aramatsolrac.github.io/JavaScriptmas/day_10/) |
-
+| **Day 11:** Christmas Gallery | HTML, CSS, JS | [Code](https://github.com/aramatsolrac/JavaScriptmas/tree/main/day_11)|[Live](https://aramatsolrac.github.io/JavaScriptmas/day_11/) |
 
 
