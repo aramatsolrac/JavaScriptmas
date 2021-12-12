@@ -24,10 +24,11 @@ addGuests();
 
 
 function newGuest() {
-    const inputVal = document.querySelector('input').value
+    const inputVal = input.value
     if (inputVal.toLowerCase().includes("evil")) {
         const evil = confirm("Are you sure?")
         if (evil === false) {
+            input.value = ""
             return
         }
     }
@@ -36,6 +37,7 @@ function newGuest() {
         const li = document.createElement("li");
         li.textContent = inputVal
         guestList.appendChild(li);
+        input.value = ""
     }
 };
 
