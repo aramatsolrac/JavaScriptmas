@@ -9,15 +9,18 @@ btn.addEventListener('click', dinner);
 
 
 function dinner() {
-    if (vegetarian.checked === true) {
-        food.textContent = "Nut Roast"
-    } else if (vegetarian.checked === false && guests.value <= 4) {
-        food.textContent = "Turkey"
-    } else if (vegetarian.checked === false && guests.value >= 5) {
-        food.textContent = "Goose"
+    if (guests.value === "0" || !guests.value) {
+        alert("Please enter the number of guests. 😊")
+    } else {
+        if (vegetarian.checked) {
+            food.textContent = "Nut Roast 🍽️"
+        } else if (vegetarian.checked === false && guests.value <= 4) {
+            food.textContent = "Turkey 🍽️"
+        } else if (vegetarian.checked === false && guests.value >= 5) {
+            food.textContent = "Goose 🍽️"
+        }
     }
 };
-
 
 
 // Tasks:
