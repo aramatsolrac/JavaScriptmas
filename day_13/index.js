@@ -10,7 +10,7 @@ btn.addEventListener('click', dinner);
 
 function dinner() {
     if (guests.value === "0" || !guests.value) {
-        alert("Please enter the number of guests. 😊")
+        alert("Please enter the number of guests.😊")
     } else {
         if (vegetarian.checked) {
             food.textContent = "Nut Roast 🍽️"
@@ -35,5 +35,3 @@ function dinner() {
 // Stretch goals:
 // - Add more dietary options.
 // - Show recipes when the meal has been selected.
-
-
