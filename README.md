@@ -22,3 +22,4 @@ This repository is a collection of the solutions I have submitted at [Scrimba](h
 | **Day 12:** Christmas Guest List | HTML, CSS, JS | [Code](https://github.com/aramatsolrac/JavaScriptmas/tree/main/day_12)|[Live](https://aramatsolrac.github.io/JavaScriptmas/day_12/) |
 | **Day 13:** Christmas Dinner Calculator | HTML, CSS, JS | [Code](https://github.com/aramatsolrac/JavaScriptmas/tree/main/day_13)|[Live](https://aramatsolrac.github.io/JavaScriptmas/day_13/) |
 | **Day 14:** Lonely Elf | HTML, CSS, JS | [Code](https://github.com/aramatsolrac/JavaScriptmas/tree/main/day_14)|[Live](https://aramatsolrac.github.io/JavaScriptmas/day_14/) |
+| **Day 15:** Festive Translator | HTML, CSS, JS | [Code](https://github.com/aramatsolrac/JavaScriptmas/tree/main/day_15)|[Live](https://aramatsolrac.github.io/JavaScriptmas/day_15/) |
