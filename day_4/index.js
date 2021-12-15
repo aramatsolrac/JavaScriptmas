@@ -16,4 +16,3 @@ for (let i = 0; i < items.length; i++) {
     div.appendChild(label);
     checklist.appendChild(div);
 }
-
