@@ -23,3 +23,5 @@ This repository is a collection of the solutions I have submitted at [Scrimba](h
 | **Day 13:** Christmas Dinner Calculator | HTML, CSS, JS | [Code](https://github.com/aramatsolrac/JavaScriptmas/tree/main/day_13)|[Live](https://aramatsolrac.github.io/JavaScriptmas/day_13/) |
 | **Day 14:** Lonely Elf | HTML, CSS, JS | [Code](https://github.com/aramatsolrac/JavaScriptmas/tree/main/day_14)|[Live](https://aramatsolrac.github.io/JavaScriptmas/day_14/) |
 | **Day 15:** Festive Translator | HTML, CSS, JS | [Code](https://github.com/aramatsolrac/JavaScriptmas/tree/main/day_15)|[Live](https://aramatsolrac.github.io/JavaScriptmas/day_15/) |
+| **Day 16:** Christmas Movie Selector | HTML, CSS, JS | [Code](https://github.com/aramatsolrac/JavaScriptmas/tree/main/day_16)|[Live](https://aramatsolrac.github.io/JavaScriptmas/day_16/) |
+
