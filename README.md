@@ -24,4 +24,4 @@ This repository is a collection of the solutions I have submitted at [Scrimba](h
 | **Day 14:** Lonely Elf | HTML, CSS, JS | [Code](https://github.com/aramatsolrac/JavaScriptmas/tree/main/day_14)|[Live](https://aramatsolrac.github.io/JavaScriptmas/day_14/) |
 | **Day 15:** Festive Translator | HTML, CSS, JS | [Code](https://github.com/aramatsolrac/JavaScriptmas/tree/main/day_15)|[Live](https://aramatsolrac.github.io/JavaScriptmas/day_15/) |
 | **Day 16:** Christmas Movie Selector | HTML, CSS, JS | [Code](https://github.com/aramatsolrac/JavaScriptmas/tree/main/day_16)|[Live](https://aramatsolrac.github.io/JavaScriptmas/day_16/) |
-
+| **Day 17:** Naughty list, Nice list| HTML, CSS, JS | [Code](https://github.com/aramatsolrac/JavaScriptmas/tree/main/day_17)|[Live](https://aramatsolrac.github.io/JavaScriptmas/day_17/) |
