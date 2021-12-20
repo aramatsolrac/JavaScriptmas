@@ -27,3 +27,5 @@ This repository is a collection of the solutions I have submitted at [Scrimba](h
 | **Day 17:** Naughty list, Nice list| HTML, CSS, JS | [Code](https://github.com/aramatsolrac/JavaScriptmas/tree/main/day_17)|[Live](https://aramatsolrac.github.io/JavaScriptmas/day_17/) |
 | **Day 18:** Custom Shopping Checkboxes | HTML, CSS, JS | [Code](https://github.com/aramatsolrac/JavaScriptmas/tree/main/day_18)|[Live](https://aramatsolrac.github.io/JavaScriptmas/day_18/) |
 | **Day 19:** Dessert Decider| HTML, CSS, JS | [Code](https://github.com/aramatsolrac/JavaScriptmas/tree/main/day_19)|[Live](https://aramatsolrac.github.io/JavaScriptmas/day_19/) |
+| **Day 20:** Snowman Customiser| HTML, CSS, JS | [Code](https://github.com/aramatsolrac/JavaScriptmas/tree/main/day_20)|[Live](https://aramatsolrac.github.io/JavaScriptmas/day_20/) |
+
