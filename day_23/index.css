@@ -43,6 +43,7 @@ body {
 
 label {
     font-size: 2rem;
+    padding-bottom: .3em;
     color: var(--snow);
     text-shadow: 3px 2px var(--wine-red);
 }

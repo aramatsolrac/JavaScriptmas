@@ -30,4 +30,6 @@ This repository is a collection of the solutions I have submitted at [Scrimba](h
 | **Day 20:** Snowman Customiser| HTML, CSS, JS | [Code](https://github.com/aramatsolrac/JavaScriptmas/tree/main/day_20)|[Live](https://aramatsolrac.github.io/JavaScriptmas/day_20/) |
 | **Day 21:** Reindeer Speedometer| HTML, CSS, JS | [Code](https://github.com/aramatsolrac/JavaScriptmas/tree/main/day_21)|[Live](https://aramatsolrac.github.io/JavaScriptmas/day_21/) |
 | **Day 22:** Christmas Stress Buster| HTML, CSS, JS | [Code](https://github.com/aramatsolrac/JavaScriptmas/tree/main/day_22)|[Live](https://aramatsolrac.github.io/JavaScriptmas/day_22/) |
+| **Day 23:** Customisable Santa Sign| HTML, CSS, JS | [Code](https://github.com/aramatsolrac/JavaScriptmas/tree/main/day_23)|[Live](https://aramatsolrac.github.io/JavaScriptmas/day_23/) |
+
 
